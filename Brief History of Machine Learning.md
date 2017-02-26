@@ -13,7 +13,9 @@ convex optimization-凸优化
 generalization margin theory-广义边际理论  
 gradient loss-梯度损失  
 decision-theoretic-理论决策  
-exogenous parameters-外源参数  
+exogenous parameters-外源参数 
+##译者前言  
+回顾历史，能够让我们更加清晰地看清ML的去向。更重要的是，AI的历史无数次证明，没有一个流派会永远辉煌，也没有一个流派会一直沉寂。  
 ##正文  
 机器学习时间轴：http://www.erogol.com/wp-content/uploads/2014/05/test.jpg  
   
