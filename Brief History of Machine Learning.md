@@ -1,6 +1,7 @@
 #Brief History of Machine Learning#
 
 ##origin:http://www.erogol.com/brief-history-machine-learning/  
+####origin-translate:https://github.com/CACppuccino/Machine-Learning-Notes/edit/master/Brief%20History%20of%20Machine%20Learning.md
 ####翻译：Lord Cup  
 ####特别感谢：Song
 ###一些有可能翻译不准确的terms  
